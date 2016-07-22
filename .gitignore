@@ -1,0 +1,8 @@
+target/
+
+# Eclipse
+.cache-main
+.classpath
+.project
+.settings/
+
